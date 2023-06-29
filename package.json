@@ -1,0 +1,9 @@
+{
+  "name": "challengeJS",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
